@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="qr_taita" size="600.000000 600.000000" />
+    <ImageTarget name="qr_saraguay2" size="600.000000 600.000000" />
+    <ImageTarget name="qr_saraguay" size="600.000000 600.000000" />
+    <ImageTarget name="qr_sanjuan2" size="600.000000 600.000000" />
+    <ImageTarget name="qr_sanjuan" size="600.000000 600.000000" />
+    <ImageTarget name="qr_nino" size="600.000000 600.000000" />
+    <ImageTarget name="qr_nina" size="600.000000 600.000000" />
+    <ImageTarget name="qr_matachin" size="600.000000 600.000000" />
+    <ImageTarget name="qr_bata" size="600.000000 600.000000" />
+    <ImageTarget name="qr_banderero" size="600.000000 600.000000" />
+  </Tracking>
+</QCARConfig>
